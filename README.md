@@ -16,10 +16,22 @@ Currently pursuing my **Master’s in Computer Science (AI & Robotics)** at UNC 
 - IT Specialist with experience supporting large-scale systems  
 
 ## 🚀 Projects
-- **Tom Team Scheduling Board** – Shift/task management for Amazon associates  
-- **LinkUpLegends** – Event posting and management platform  
-- **Recommendation Letter App** – Flask-based student-professor tool  
-- **12+ iOS Apps** – Built with Swift and Firebase
+
+- 🎯 **[MarketIQ](https://github.com/ajmal-amir/MarketIQ)**  
+  Applied Machine Learning project that uses algorithms like KNN, SVM, Random Forest, Bagging, and AdaBoost  
+  to **predict stock prices**, with a focus on making the results **user-friendly and easy to understand** for non-technical users.
+
+- 🗓️ **Tom Team Scheduling Board**  
+  Shift/task management platform for Amazon associates using Node.js, Swift, and MongoDB.
+
+- 🌍 **LinkUpLegends**  
+  Event posting and management platform built with Node.js, HTML, CSS, and MongoDB.
+
+- 📝 **Recommendation Letter App**  
+  A Flask-based web app that simplifies student-professor recommendation letter requests.
+
+- 📱 **12+ iOS Mobile Applications**  
+  Built using Swift and Firebase, featuring local and cloud data handling, user auth, and UI design.
 
 ## 📫 Let's Connect
 - 📧 Email: qasim.aimal@gmail.com  
