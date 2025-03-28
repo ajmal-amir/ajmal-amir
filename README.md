@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Ajmal Amir
 
-<!--
-**ajmal-amir/ajmal-amir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Master's Student in AI, Robotics & Gaming at UNCC
+- 👨‍💻 Passionate about Software Engineering, DSA, and Web Development
+- 💼 Open to work & internships!
+- 📫 Reach me at: qasim.aimal@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Languages: Python, JavaScript, C++, Java
+- Frameworks: Flask, React, Node.js
+- Tools: GitHub, MongoDB, MySQL, Firebase
+
+---
+
+⭐️ Thank you for visiting my profile!
